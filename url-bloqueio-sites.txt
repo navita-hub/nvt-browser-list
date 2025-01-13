@@ -124,7 +124,6 @@ https://max.com
 https://tcm.com
 https://popcorntime.com.br
 https://popcorntime.xyz
-URLs correta mas sem bloqueio
 https://line.me
 https://couchsurfing.com
 https://tagged.com
@@ -272,7 +271,7 @@ https://www.br.betboo.com/
 https://jonbet.bet.br/ 
 https://www.1001jogos.com.br/
 https://www.1001jogos.pt/
-https://m.freeonlinegames.com/
+https://freeonlinegames.com/
 https://pt.y8.com/
 https://www.minijuegos.com.br/
 https://www.minijuegos.com/
